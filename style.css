@@ -97,6 +97,17 @@ img {
     margin: 0;
   }
 
+  .row img {
+    width: 120px;
+    height: 120px;
+    margin-top: 15px;
+  }
+
+  #lezioni .row img {
+    width: 170px;
+    height: 125px;
+  }
+
   #lezioni {
     padding-top: 20px;
     background-color: bisque;
